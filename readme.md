@@ -30,6 +30,14 @@ Calculates pressure drop through Drill String.
 
 Calculates required pressure to break gel strength after mud being in static condition (loss of circulation).
 
+##pfit.py
+
+Calculates pressure required to perform Formation Integrity Test (FIT).
+
+##HP_Pump_Output.py	
+
+Calculates output of Duplex or Triplex HP Mud Pump, for given Efficiency.
+
 *Units*
 
 All units are in **oilfield* system - psi, feet, inch. Calculations can not be used in other unit system, without correction for units.
